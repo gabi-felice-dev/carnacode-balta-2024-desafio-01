@@ -1,3 +1,17 @@
+
+:root {
+  --cor-gray01:#E8E8E8;
+  --cor-gray02:#BDBDBD;
+  --cor-gray03:#F6F6F6;
+  --cor-button:#45fefe;
+  --cor-hover: #ceeeee;
+  --cor-body:#F5F5F5;
+  
+  --font-primaria: "Inter', sans-serif";
+  --color-font:#000000;
+  
+  }
+  
 body {
     font-family: "Inter", sans-serif !important;
     font-size: 16px;
